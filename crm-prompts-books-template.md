@@ -1,6 +1,4 @@
-# CRM AI Prompts Book (Thai Version)
-
-> ฟอนต์แนะนำ: ใช้ TH Sarabun PSK เมื่อนำไปทำ Word/PDF เพื่อความสวยงาม
+# 500 CRM Prompts Book (Thai Version)
 
 # Table of Contents
 - [A. ดึงดูด & ระบุลูกค้า (Attract)](#a-ดึงดูด--ระบุลูกค้า-attract)
