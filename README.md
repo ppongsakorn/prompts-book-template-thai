@@ -1,2 +1,3 @@
-# crm-prompt-book-template
-CRM Prompts Book Template for Thai
+Prompts Book Template for Thai
+
+CRM Prompts Book for Thai
